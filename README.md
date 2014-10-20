@@ -1,2 +1,145 @@
 Lumesse
 =======
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Lauren Watkins</Author>
+  <LastAuthor>Lauren Watkins</LastAuthor>
+  <LastPrinted>2014-10-20T07:32:10Z</LastPrinted>
+  <Created>2014-10-20T06:32:07Z</Created>
+  <LastSaved>2014-10-20T07:52:57Z</LastSaved>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9340</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>1000</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+	<Alignment ss:Vertical="Bottom"/>
+	<Borders/>
+	<Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+	<Interior/>
+	<NumberFormat/>
+	<Protection/>
+  </Style>
+  <Style ss:ID="m2112755240">
+	<Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+	<Borders>
+	<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	</Borders>
+	<Font ss:FontName="Trebuchet MS" ss:Size="22" ss:Color="#FCF305" ss:Bold="1"/>
+	<Interior ss:Color="#4600A5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s16">
+	<Alignment ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s18">
+	<Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+	<Borders>
+	<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#A2BD90"/>
+	</Borders>
+	<Font ss:FontName="Trebuchet MS" ss:Size="18" ss:Color="#A2BD90" ss:Bold="1"/>
+	<Interior ss:Color="#993366" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+	<Alignment ss:Vertical="Center" ss:WrapText="1"/>
+	<Borders>
+	<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#4600A5"/>
+	<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#4600A5"/>
+	</Borders>
+	<Font ss:FontName="Trebuchet MS" ss:Size="14" ss:Color="#4600A5" ss:Bold="1"/>
+	<Interior ss:Color="#FCF305" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s20">
+	<Alignment ss:Vertical="Center" ss:WrapText="1"/>
+	<Borders>
+	<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#F20884"/>
+	<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#F20884"/>
+	<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+	ss:Color="#F20884"/>
+	</Borders>
+	<Font ss:FontName="Trebuchet MS" ss:Size="14" ss:Color="#4600A5" ss:Bold="1"/>
+	<Interior ss:Color="#FCF305" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="6" x:FullColumns="1"
+	x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+	<Column ss:AutoFitWidth="0" ss:Width="178"/>
+	<Column ss:AutoFitWidth="0" ss:Width="174"/>
+	<Column ss:AutoFitWidth="0" ss:Width="176"/>
+	<Column ss:AutoFitWidth="0" ss:Width="149"/>
+	<Column ss:Hidden="1" ss:AutoFitWidth="0"/>
+	<Row>
+	<Cell ss:MergeAcross="2" ss:MergeDown="2" ss:StyleID="m2112755240"><Data
+	ss:Type="String">Lumesse Idealâ„¢</Data></Cell>
+	<Cell ss:StyleID="s16"/>
+	<Cell ss:StyleID="s16"/>
+	</Row>
+	<Row>
+	<Cell ss:Index="4" ss:StyleID="s16"/>
+	<Cell ss:StyleID="s16"/>
+	</Row>
+	<Row ss:Height="16">
+	<Cell ss:Index="4" ss:StyleID="s16"/>
+	<Cell ss:StyleID="s16"/>
+	</Row>
+	<Row ss:AutoFitHeight="0" ss:Height="54">
+	<Cell ss:StyleID="s18"><Data ss:Type="String">Ideal Self</Data></Cell>
+	<Cell ss:StyleID="s18"><Data ss:Type="String">Ideal</Data></Cell>
+	<Cell ss:StyleID="s18"><Data ss:Type="String">Ideal Plus</Data></Cell>
+	</Row>
+	<Row ss:AutoFitHeight="0" ss:Height="313">
+	<Cell ss:StyleID="s19"><Data ss:Type="String">Optimal for smaller organizations running basic platform processes and do not require maximum configuration support. The advantage to this approach is having full Lumesse solutions benefits but with less set up costs.</Data></Cell>
+	<Cell ss:StyleID="s20"><Data ss:Type="String">Suggested best practice for customers interested in implementation assistance and consulting services provided by Lumesse project specialists. Option selection includes the benefit of a flexible product approach and support level that can be maintained within the parameters of a fixed budget. </Data></Cell>
+	<Cell ss:StyleID="s20"><Data ss:Type="String">Maximized approach designed to meet extended requirements of large scale customers and global operations. This package provides all inclusive Lumesse support from initation to sign off and gives you the flexibility you need for customized implementation. </Data></Cell>
+	</Row>
+	<Row ss:Height="16"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+	<Print>
+	<ValidPrinterInfo/>
+	<HorizontalResolution>-4</HorizontalResolution>
+	<VerticalResolution>-4</VerticalResolution>
+	</Print>
+	<PageLayoutZoom>0</PageLayoutZoom>
+	<Selected/>
+	<Panes>
+	<Pane>
+	<Number>3</Number>
+	<RangeSelection>R1C1:R5C3</RangeSelection>
+	</Pane>
+	</Panes>
+	<ProtectObjects>False</ProtectObjects>
+	<ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
